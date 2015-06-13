@@ -15,4 +15,5 @@ premier test de gravure à l'anglaise de PCB
 
 video:
 1er test electronique
+[![1er test](https://www.youtube.com/watch?v=vIVo-B-PW7Y.jpg)](https://www.youtube.com/watch?v=vIVo-B-PW7Y)
 https://www.youtube.com/watch?v=vIVo-B-PW7Y
