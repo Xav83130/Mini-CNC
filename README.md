@@ -13,7 +13,8 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 
 ![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg)
 
-video:
+## video:
+
 1er test electronique
-[![1er test](https://www.youtube.com/watch?v=vIVo-B-PW7Y.jpg)](https://www.youtube.com/watch?v=vIVo-B-PW7Y)
+[![1er test]](https://www.youtube.com/watch?v=vIVo-B-PW7Y)
 https://www.youtube.com/watch?v=vIVo-B-PW7Y
