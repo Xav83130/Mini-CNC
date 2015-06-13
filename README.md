@@ -14,4 +14,5 @@ premier test de gravure à l'anglaise de PCB
 ![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg)
 
 video:
+1er test electronique
 https://www.youtube.com/watch?v=vIVo-B-PW7Y
