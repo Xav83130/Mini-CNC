@@ -32,3 +32,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## Video Usinage MDF 
 <a href="https://www.youtube.com/watch?v=NTO4UKg58Oo" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## Video Usinage test vitesse MDF 
+
+<a href="https://www.youtube.com/watch?v=9mLIWE9qiow" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
