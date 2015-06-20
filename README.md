@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=vIVo-B-PW7Y
 
 ## Cycle "Home" & "Palpeur"
 
-<a href="https://www.youtube.com/embed/U6FdHrF1RL8" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/image_youtube.jpg" 
+<a href="https://www.youtube.com/watch?v=U6FdHrF1RL8" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Video Usinage MDF 
