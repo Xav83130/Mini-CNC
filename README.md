@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=vIVo-B-PW7Y
 
 <a href="https://www.youtube.com/embed/U6FdHrF1RL8" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/image_youtube.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## Video Usinage MDF 
+<a href="https://www.youtube.com/watch?v=NTO4UKg58Oo" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/image_youtube.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
