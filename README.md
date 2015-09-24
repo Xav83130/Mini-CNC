@@ -11,6 +11,7 @@ L'accès a une cnc est un plus pour la precision de la découpe du chassis bois 
 Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 
 ![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/WP_20150607_001.jpg)
+<img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/WP_20150607_001.jpg" alt="Drawing" style="width: 200px;"/>
 
 ## premier test de gravure à l'anglaise de PCB
 
