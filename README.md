@@ -14,28 +14,6 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 
 ## premiers tests
 
+![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg)
 
-<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg" align="right" /></a>
-<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG" align="left" /></a>
-
-
-## videos
-
-1er test electronique
-
-<a href="https://www.youtube.com/watch?v=vIVo-B-PW7Y" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-## Cycle "Home" & "Palpeur"
-
-<a href="https://www.youtube.com/watch?v=U6FdHrF1RL8" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-## Video Usinage MDF 
-<a href="https://www.youtube.com/watch?v=NTO4UKg58Oo" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-## Video Usinage test vitesse MDF 
-
-<a href="https://www.youtube.com/watch?v=9mLIWE9qiow" target="_blank"><img src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/arriere_plan/arriere_plan.001.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG)
