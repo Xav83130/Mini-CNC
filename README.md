@@ -15,8 +15,8 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 ## premier test de gravure à l'anglaise de PCB
 
 <body>
-<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg" align="right"></a>
-<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG" align="left"></a>
+<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg" align="right" /></a>
+<a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG" align="left" /></a>
 
 
 ## videos
