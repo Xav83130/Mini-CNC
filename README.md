@@ -18,7 +18,6 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 <a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/PCB%20test.jpg" align="right"></a>
 <a href="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG"><img width="359" height="480" src="https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG" align="left"></a>
 
-<li>
 
 ## videos:
 
@@ -26,7 +25,7 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 
 https://www.youtube.com/watch?v=vIVo-B-PW7Y
 
-
+##
 
 ## Cycle "Home" & "Palpeur"
 
