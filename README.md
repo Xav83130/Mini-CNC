@@ -1,7 +1,6 @@
 # Mini-CNC
 Git mis en place pour partager les fichiers pour la fabrication d'une Mini CNC destinée à la gravure de PCB, la gravure sur "Gravopli" et pourquoi pas du detourage dans du bois tendre (MDF, Balsa, ...).
 
-Wiki
 [Accès au Wiki](https://github.com/Xav83130/Mini-CNC/wiki)
 
 
