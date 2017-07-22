@@ -15,4 +15,6 @@ Une imprimande 3D pour les axes XZ et les petites pièces diverses.
 
 ![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/WP_20170102_010.jpg)
 
+![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/WP_20160319_003.jpg)
+
 ![alt tag](https://github.com/Xav83130/Mini-CNC/blob/master/Images/divers_tests.JPG)
